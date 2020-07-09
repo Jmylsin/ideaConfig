@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="dept.js" type="PLAIN_TEXT" />
-      <mapping ext="xm" type="XML" />
-    </extensionMap>
-  </component>
-</application>
